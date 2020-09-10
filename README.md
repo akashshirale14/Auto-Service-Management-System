@@ -1,4 +1,8 @@
 #README
+It is project on Auto Service Management System.
+Here you can add,delete,update and read your appointment details for your car service.
+The project is built using Java and Spring framwork.
+
 The application follows an MVC architecture.Basically, a web browser request is handled by the controller
 which access the database and returns the result.This retreived result is then stored in a model
 and then forwarded to display the data on a web page.
